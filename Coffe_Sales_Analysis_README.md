@@ -57,6 +57,7 @@ Key Insight: Loyalty card holders tend to make larger purchases, reinforcing the
 
 
 Slicers and Their Purpose
+
 Slicers were added to improve interactivity in the pivot tables and dashboards:
 
 1. Date Slicer (Order Date)
