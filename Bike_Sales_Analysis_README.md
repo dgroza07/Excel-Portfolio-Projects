@@ -37,24 +37,24 @@ The interactive Bike Sales Dashboard provides insights into key purchasing trend
 ![image](https://github.com/user-attachments/assets/76443ab8-9872-4d15-8aaf-bf9862e48d15)
 
 Key Business Insights
-📌 1. Middle-aged individuals (31-54) purchase the most bikes.
 
+📌 1. Middle-aged individuals (31-54) purchase the most bikes.
 Why? Likely due to higher disposable income and commuting needs.
 Evidence: The "Age Group Analysis" chart shows Middle Age has the highest purchase rate.
-📌 2. North America has the highest bike purchase rate, particularly in the 40K-80K income bracket.
 
+📌 2. North America has the highest bike purchase rate, particularly in the 40K-80K income bracket.
 Why? This group may use bikes for cost-effective commuting or lifestyle purposes.
 Evidence: The "Bike Purchase Rate by Region & Income Bracket" chart highlights North America's dominance.
-📌 3. Higher-income individuals ($120K+) purchase fewer bikes than expected.
 
+📌 3. Higher-income individuals ($120K+) purchase fewer bikes than expected.
 Why? They may prefer other transportation options or luxury purchases.
 Evidence: The "Gender & Income Influence on Bike Purchases" chart shows lower purchase percentages for high-income groups.
-📌 4. Commute distance impacts bike purchases—those traveling 1-2 miles buy the most.
 
+📌 4. Commute distance impacts bike purchases—those traveling 1-2 miles buy the most.
 Why? Shorter distances make biking a convenient alternative to driving.
 Evidence: The "Customer Commute" chart reveals higher purchase rates for short-distance commuters.
-📌 5. Women in lower-income brackets (10K-40K) purchase bikes at a slightly higher rate than men.
 
+📌 5. Women in lower-income brackets (10K-40K) purchase bikes at a slightly higher rate than men.
 Why? Biking may serve as a cost-effective mode of transport in this group.
 Evidence: The "Gender & Income Influence on Bike Purchases" chart shows a small but noticeable difference in this income segment.
 
