@@ -79,8 +79,9 @@ Assists in understanding customer taste preferences.
 Filters sales based on loyalty membership status.
 Helps analyze how customer loyalty impacts sales and repeat purchases.
 
-Key Business Insights from the Analysis:
 
+
+Key Business Insights from the Analysis:
 United States and Ireland drive the majority of sales, making them key markets.
 
 Arabica and Robusta coffees are the most popular choices, indicating strong customer preference.
