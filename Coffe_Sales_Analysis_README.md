@@ -18,10 +18,10 @@ Roast Type Name → Mapped "M" to "Medium", "L" to "Light", etc.
 Sales = Quantity × Unit Price
 Price per 100g = Unit Price / Size × 100
 Profit = Estimated based on pricing strategy
+
+
 Pivot Tables and Their Purpose
-Several pivot tables were created to summarize key insights dynamically:
-
-
+Several pivot tables were created to summarize key insights dynamically
 1. Total Sales by Country
 
 Purpose: Identifies sales distribution across different countries.
