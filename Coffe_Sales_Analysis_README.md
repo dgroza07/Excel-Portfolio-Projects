@@ -32,11 +32,13 @@ Key Insight: The United States and Ireland contribute the most to sales revenue.
 2. Top 5 Customers by Sales
 
 Purpose: Highlights the highest-spending customers.
+
 Key Insight: A few customers make up a large portion of total revenue, suggesting high-value customers who may be targeted for loyalty programs.
 
 3. Product Performance (Sales by Coffee Type & Roast Type)
 
 Purpose: Determines the best-selling coffee types and roasts.
+
 Key Insight:
 Arabica and Robusta are the best-selling coffee types.
 Medium and Light roasts are the most preferred.
@@ -44,11 +46,13 @@ Medium and Light roasts are the most preferred.
 4. Monthly Sales Trend Analysis
 
 Purpose: Tracks sales trends over time.
+
 Key Insight: Helps identify seasonal trends, which can be used to optimize inventory and marketing efforts.
 
 5. Customer Loyalty Analysis
 
 Purpose: Compares sales between customers with and without a loyalty card.
+
 Key Insight: Loyalty card holders tend to make larger purchases, reinforcing the need to promote loyalty programs.
 
 6. Slicers and Their Purpose
