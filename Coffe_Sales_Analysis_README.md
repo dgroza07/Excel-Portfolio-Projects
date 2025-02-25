@@ -55,8 +55,9 @@ Purpose: Compares sales between customers with and without a loyalty card.
 
 Key Insight: Loyalty card holders tend to make larger purchases, reinforcing the need to promote loyalty programs.
 
-6. Slicers and Their Purpose
-   Slicers were added to improve interactivity in the pivot tables and dashboards:
+
+Slicers and Their Purpose
+Slicers were added to improve interactivity in the pivot tables and dashboards:
 
 1. Date Slicer (Order Date)
 Allows filtering of sales data by specific timeframes (Year, Quarter, Month).
