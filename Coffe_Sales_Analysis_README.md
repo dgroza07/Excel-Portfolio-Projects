@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/869e31f2-bb44-4303-bf61-edea22538649)
+
+
 Data Cleaning and Preparation Steps
 1. Standardized Column Names
 Ensured uniform column naming conventions to prevent errors in formulas and references.
