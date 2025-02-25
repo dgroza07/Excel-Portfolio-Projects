@@ -1,4 +1,4 @@
-Project Overview
+Project Overview:
 This project analyzes bike purchase trends using Excel, focusing on demographic and financial factors influencing customer decisions. The analysis includes data cleaning, transformation, and visualization, culminating in an interactive dashboard that provides insights into purchasing patterns.
 
 Key Steps & Process
