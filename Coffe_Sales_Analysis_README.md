@@ -22,9 +22,11 @@ Profit = Estimated based on pricing strategy
 
 Pivot Tables and Their Purpose
 Several pivot tables were created to summarize key insights dynamically
+
 1. Total Sales by Country
 
 Purpose: Identifies sales distribution across different countries.
+
 Key Insight: The United States and Ireland contribute the most to sales revenue.
 
 2. Top 5 Customers by Sales
