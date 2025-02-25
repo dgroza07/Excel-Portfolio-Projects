@@ -82,12 +82,9 @@ Helps analyze how customer loyalty impacts sales and repeat purchases.
 
 
 Key Business Insights from the Analysis:
+
 United States and Ireland drive the majority of sales, making them key markets.
-
 Arabica and Robusta coffees are the most popular choices, indicating strong customer preference.
-
 Medium and Light roasts outperform Dark roasts, suggesting customer taste preferences.
-
 Loyalty members purchase more per transaction, reinforcing the importance of a customer retention strategy.
-
 Sales fluctuate across months, indicating potential seasonal demand trends for coffee.
