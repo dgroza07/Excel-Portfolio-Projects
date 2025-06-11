@@ -1,0 +1,79 @@
+U.S. Debt Analysis & Forecast Dashboard (1997–2030)
+📌 Project Overview
+This project presents a data-driven analysis of U.S. federal debt trends using Excel. Built under a simulated business case for a Washington, D.C. debt agency, the goal was to analyze and forecast Debt Held by the Public, Intragovernmental Holdings, and Total Public Debt Outstanding to support policy and financial decision-making.
+
+It includes data cleaning, transformation, visualization, seasonal pattern analysis, and long-term forecasting, with insights relevant to both public policy and private sector planning.
+
+🧹 Data Cleaning & Preparation
+Transposed raw horizontal data into a usable vertical format
+
+Replaced 5,916 null values and removed 7 blank columns
+
+Converted data types:
+
+Dates → Date format
+
+Debt values → Currency format
+
+Built a clean, structured dataset for analysis and forecasting
+
+📊 Analysis Methodology
+
+Yearly Debt Percentage Increase.png
+
+✅ 1. Annual Debt Growth (2012–2022)
+Calculated year-over-year percentage changes in federal debt categories
+
+Visualized spike in 2020 (COVID-19 stimulus) as a key fiscal outlier
+
+✅ 2. Monthly Average Debt Patterns
+Aggregated by month across all years
+
+Identified high-debt months (Jan, Dec) and low-debt periods (Apr, May), revealing seasonal fiscal behavior
+
+✅ 3. Debt Forecasting (2025–2030)
+Used Excel's FORECAST.LINEAR function to project public debt trends
+
+Displayed anticipated growth to $36T+ by 2030 via area chart
+
+💡 Key Insights
+Structural Risk: U.S. debt is now rising independently of crisis events, due to long-term structural spending and interest costs.
+
+COVID Acceleration: Public debt increased over 25% in 2020 alone.
+
+Seasonal Behavior: Borrowing typically peaks in Q4–Q1 and dips during tax season (April).
+
+Forecast Warning: Without major policy shifts, projected growth suggests an unsustainable fiscal path by the end of the decade.
+
+⚙️ Tools & Skills Applied
+Microsoft Excel: Pivot tables, forecasting, charts (line, bar, area), data formatting
+
+Data Cleaning: Null handling, date and currency standardization, structural reformatting
+
+Business Intelligence Thinking: KPI extraction, trend segmentation, narrative analysis
+
+Scenario-Based Analysis: Applied to policy and macroeconomic risk modeling
+
+📘 Suggested Research Areas
+To extend this analysis, consider exploring:
+
+Debt-to-GDP trends
+
+Interest rate sensitivity and Treasury yields
+
+Inflation projections and Federal Reserve policy
+
+Consumer credit usage and credit card delinquencies
+
+Housing market shifts (mortgage rates, affordability)
+
+Social Security and Medicare liability growth
+
+Retail spending and labor market dynamics
+
+Bond investor behavior and global confidence in U.S. debt markets
+
+🧾 Summary Conclusion
+This project blends data cleaning, economic analysis, visualization, and forecasting to uncover how U.S. public debt has evolved across decades. What began as reactive borrowing in crisis periods has become a structural norm, raising red flags for policymakers, markets, and the public.
+
+For businesses, governments, and analysts, these insights support smarter budget planning, interest rate forecasting, and fiscal risk management. This project also demonstrates my ability to combine technical Excel skills with real-world business intelligence and strategic foresight.
