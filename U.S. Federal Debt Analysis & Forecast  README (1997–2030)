@@ -28,16 +28,14 @@ Calculated year-over-year percentage changes in federal debt categories
 Visualized spike in 2020 (COVID-19 stimulus) as a key fiscal outlier
 
 ✅ 2. Monthly Average Debt Patterns
+https://private-user-images.githubusercontent.com/197822508/454057258-7389c644-bba5-4970-8ce1-2243f98a410b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk2NjcyNTAsIm5iZiI6MTc0OTY2Njk1MCwicGF0aCI6Ii8xOTc4MjI1MDgvNDU0MDU3MjU4LTczODljNjQ0LWJiYTUtNDk3MC04Y2UxLTIyNDNmOThhNDEwYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYxMVQxODM1NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZjE0NWIwMjNiYzU3YzcxZmIxMTBlN2I1MDlmNzgzZTEyYWI1MTBjYWU4NmI2YTQ4ZGRmMTBjZmMzN2FhNDU3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.5Ti9pTcmXpfHtTPcAMFCG3yb5GHauzPcXkOVOph2Vto
 Aggregated by month across all years
-
 Identified high-debt months (Jan, Dec) and low-debt periods (Apr, May), revealing seasonal fiscal behavior
 
 ✅ 3. Debt Forecasting (2025–2030)
 Used Excel's FORECAST.LINEAR function to project public debt trends
 
 Displayed anticipated growth to $36T+ by 2030 via area chart
-
-https://github.com/dgroza07/Excel-Portfolio-Projects/issues/1#issue-3137755884
 
 💡 Key Insights
 Structural Risk: U.S. debt is now rising independently of crisis events, due to long-term structural spending and interest costs.
