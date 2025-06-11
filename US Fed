@@ -3,7 +3,7 @@ U.S. Debt Analysis & Forecast Dashboard (1997–2030)
 This project presents a data-driven analysis of U.S. federal debt trends using Excel. Built under a simulated business case for a Washington, D.C. debt agency, the goal was to analyze and forecast Debt Held by the Public, Intragovernmental Holdings, and Total Public Debt Outstanding to support policy and financial decision-making.
 
 It includes data cleaning, transformation, visualization, seasonal pattern analysis, and long-term forecasting, with insights relevant to both public policy and private sector planning.
-
+ 
 🧹 Data Cleaning & Preparation
 Transposed raw horizontal data into a usable vertical format
 
